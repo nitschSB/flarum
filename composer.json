@@ -26,6 +26,7 @@
         "flarum/bbcode": "*",
         "flarum/emoji": "*",
         "flarum/lang-english": "*",
+        "flarum-lang/german": "*",
         "flarum/flags": "*",
         "flarum/likes": "*",
         "flarum/lock": "*",
