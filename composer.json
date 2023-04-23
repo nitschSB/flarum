@@ -38,7 +38,8 @@
         "flarum/sticky": "*",
         "flarum/subscriptions": "*",
         "flarum/suspend": "*",
-        "flarum/tags": "*"
+        "flarum/tags": "*",
+        "askvortsov/flarum-rich-text": "*"
     },
     "config": {
         "preferred-install": "dist",
