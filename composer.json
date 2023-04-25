@@ -37,7 +37,8 @@
         "flarum/subscriptions": "*",
         "flarum/suspend": "*",
         "flarum/tags": "*",
-        "askvortsov/flarum-rich-text": "*"
+        "askvortsov/flarum-rich-text": "*",
+        "fof/nightmode": "*"
     },
     "config": {
         "preferred-install": "dist",
